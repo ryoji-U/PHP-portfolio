@@ -34,7 +34,7 @@ $content = $result['content'];
 	<link rel="stylesheet" href="../css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap" rel="stylesheet">
 	<script src="https://kit.fontawesome.com/9f2e7499ce.js"></script>
-    <title>インスタグラム</title>
+    <title>udastagram</title>
 </head>
 <body>
 <section id="comment_formphp">

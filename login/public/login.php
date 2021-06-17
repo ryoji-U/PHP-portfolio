@@ -41,7 +41,7 @@ header("Location:../../public/index.php?year=$now_year&month=$now_month");
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title>ログイン画面</title>
+	<title>udastagram</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="../..//css/style.css">
 	<link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap" rel="stylesheet">
